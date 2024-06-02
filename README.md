@@ -1,3 +1,7 @@
+---
+description: 'English Page: https://escapekorea.gitbook.io/eng'
+---
+
 # Escape Korea GitBook에 대하여
 
 ## 한국의 상황
